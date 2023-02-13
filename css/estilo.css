@@ -1,0 +1,102 @@
+#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+}
+p{
+    font-size: 15px;
+}
+#cabecera{
+    margin: auto;
+    border: groove;
+    width: 960px;
+    height: 70px;
+    background-color: azure;
+    display: flex;
+    align-items: end;
+}
+.c1{
+    width: 860px;
+    height: 60px;
+    text-align: center;     
+}
+.c2{
+    width: 100px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+#medio{
+    display: flex;
+    background-color: azure;
+}
+.contenedor{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+    font-weight: 600;
+    width: 350px;
+    height: 280px;
+    color: white;
+}
+.contenedor img{
+    cursor: pointer;
+}
+.a{
+    border: groove;
+    padding: 5px;
+    width: 640px;
+    height: 330px;
+}
+.b{
+    border: groove;
+    padding-top: 15px;
+    padding-left: 10px;
+    width: 320px;
+    height: 330px;
+}
+.b-1{
+    display: flex;
+    align-items: center;
+}
+.b-2 img{
+    cursor: pointer;
+}
+
+#final{
+    display: flex;
+    background-color: azure;
+}
+.c{
+    border: groove;
+    padding: 8px;
+    width: 320px;
+    height: 330px;
+}
+.especial{
+    width: 305px;
+    height: 103px;
+    display: flex;
+}
+.epa{
+    width: 230px;
+    height: 80px;
+}
+.epb{
+    cursor: pointer;
+    width: 70px;
+    height: 80px;
+}
+.raya{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.ra{
+    background-color: black;
+    width: 40px;
+    height: 2px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
